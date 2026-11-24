@@ -1,9 +1,0 @@
-node_modules/
-src/
-scripts/
-runtime/
-test/
-out/**/*.map
-*.tgz
-*.tsbuildinfo
-tsconfig*.json
